@@ -10,4 +10,3 @@ The following guides illustrate how to use some features concretely:
 * [2. Prometheus Configuration (prometheus.yml)](https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/)
 * [3. Running Prometheus using Docker](https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/)
 * [4. Visualizing Spring Boot Metrics from Prometheus dashboard](https://www.callicoder.com/spring-boot-actuator-metrics-monitoring-dashboard-prometheus-grafana/)
-
